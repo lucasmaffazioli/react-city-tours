@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ef44d65-f4e7-4701-b600-0c6ffceef59e/deploy-status)](https://react-city-tours-lucas.netlify.com)
+
 Followed the lessons in the '[React Tutorial and Projects Course](https://www.udemy.com/react-tutorial-and-projects-course/)'
 
 ---
